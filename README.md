@@ -1,13 +1,17 @@
-# ACHUTA KODAMATI
-<h1 align="center">Hi 👋, I'm achuta</h1>
+# Hi 👋
+<h1 align="center"> ACHUTA KODAMATI</h1>
 <h3 align="center">🚀 AI & ML Developer | Building Real-World Projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achu-achutha&label=Profile%20views&color=0e75b6&style=flat" alt="achu-achutha" /> </p>
 ### 🧠 Current Projects
-- <h3>🤖 Mizo Mood Predictor (AI + NLP)</h3>
-- <h3>🌱 Eco-Swipe (Sustainability App)</h3>
-- <h3>🏥 Smart First Aid Assistant (AI-based)</h3>
-
+- <h2>🤖 Mizo Mood Predictor (AI + NLP)</h2>
+- <h2>🌱 Eco-Swipe (Sustainability App)</h2>
+- <h2>🏥 Smart First Aid Assistant (AI-based)</h2>
+<h3>
+ 
+</h3>
+<span>
+</span>
 - my Portfolio https://portfolio-smoky-nu-62.vercel.app/
 
 - 👨‍💻 All of my projects are available at https://github.com/achu-achutha](https://github.com/achu-achutha)
