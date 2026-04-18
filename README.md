@@ -15,11 +15,7 @@
 - 📫 How to reach me **gayatrikodamati@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aeaHluEoG4ZoTH4UTNr9e6OAg6H6-mVc/view?usp=sharing](https://drive.google.com/file/d/1aeaHluEoG4ZoTH4UTNr9e6OAg6H6-mVc/view?usp=sharing)
-- ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ACHU-ACHUTHA&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACHU-ACHUTHA&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
